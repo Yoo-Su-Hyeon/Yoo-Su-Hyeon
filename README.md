@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 반갑습니다 유수현 입니다! 
+### 반갑습니다! 
 
 <!--
 **Yoo-Su-Hyeon/Yoo-Su-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
